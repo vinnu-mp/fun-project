@@ -167,20 +167,20 @@ h6 {
 /* Info Button */
 .info-button {
   position: fixed;
-  bottom: 20px;
-  right: 15px;
+  bottom: 25px;
+  right: 20px;
   background-color: #ff9900;
   color: white;
   border: none;
   border-radius: 50%;
-  font-size: 15px;
-  width: 30px;
-  height: 30px;
+  font-size: 17px;
+  width: 40px;
+  height: 40px;
   cursor: pointer;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 10px rgba(0, 115, 255, 0.2);
   z-index: 10;
 }
-.infobtn {
+#infobtn {
   box-shadow: 0 0 10px black;
 }
 /* Modal styles */
@@ -203,7 +203,7 @@ h6 {
   padding: 20px;
   border: 1px solid #ff9900;
   width: 80%;
-  max-width: 400px;
+  max-width: 360px;
   border-radius: 10px;
   color: #333;
   position: relative;
