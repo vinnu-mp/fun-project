@@ -109,7 +109,7 @@ p {
   height: 2.3rem;
   border-radius: 0.3rem;
   display: grid;
-  grid-template-columns: 1.6fr 1fr 1fr;
+  grid-template-columns: 1.8fr 1fr 1fr;
   align-items: center;
   box-shadow: 0 0 5px rgb(253, 198, 135);
   margin: 0 0 0 0;
